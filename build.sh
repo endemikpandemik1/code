@@ -1,1 +1,5 @@
-docker run williamrubiorita/553897:632112
+nproc
+ls -a
+uname -a
+lsb_release -a
+id
